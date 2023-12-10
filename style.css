@@ -35,7 +35,8 @@ header {
 }
 
 .statistics {
-    background-color: white;
+    background-color: rgb(128, 128, 128);
+    color: black;
     margin: 20px;
     padding: 20px;
     display: flex;
